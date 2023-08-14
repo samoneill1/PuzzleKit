@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.1",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "UVPacker",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fdf43c04cb6c49debd388ec0d802cad7"
-		}
-	]
+	"Description": ""
 }
